@@ -1,2 +1,1 @@
-# wd4e_js2w
-Coursera: Interactivity with JavaScript - Second Week Project
+# Coursera: Interactivity with JavaScript - Second Week Project
