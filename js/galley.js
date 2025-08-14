@@ -20,6 +20,6 @@ function unDo(){
   back to the original text.  You can use the html code to see what that original text was
 */
 	const divImage = document.getElementById("image");
-	divImage.style.backgroundImage = "";
+  divImage.style.backgroundImage = "url('')";
 	divImage.innerHTML = "Hover over an image below to display here.";
 }
